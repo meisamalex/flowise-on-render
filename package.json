@@ -1,0 +1,10 @@
+{
+  "name": "flowise-render",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "flowise start"
+  },
+  "dependencies": {
+    "flowise": "latest"
+  }
+}
